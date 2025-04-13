@@ -4,7 +4,6 @@ This fun and educational cocktail app helps you discover official IBA cocktails 
 
 ## 🍹 What’s Included
 - ✅ 25 famous drinks
-- ✅ Cosmopolitan and Hriatô (honorary entries)
 - ✅ Ingredient filtering
 - ✅ Beautiful thematic backgrounds, based on the origin of the cocktail
 - ✅ Sound effects and smooth UI
