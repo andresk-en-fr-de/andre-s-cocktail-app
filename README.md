@@ -3,10 +3,10 @@
 This fun and educational cocktail app helps you discover official IBA cocktails based on the ingredients you have at home.
 
 ## 🍹 What’s Included
-- ✅ 60 drinks from the IBA 1993 list
+- ✅ 25 famous drinks
 - ✅ Cosmopolitan and Hriatô (honorary entries)
 - ✅ Ingredient filtering
-- ✅ Beautiful thematic backgrounds
+- ✅ Beautiful thematic backgrounds, based on the origin of the cocktail
 - ✅ Sound effects and smooth UI
 
 ## ⚠️ Disclaimer
