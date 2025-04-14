@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cocktail Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="content-box">
+  <h1>Cocktail Finder 🍹</h1>
+  <div class="search-row">
+    <input type="text" id="ingredients" placeholder="e.g. rum, lime, mint">
+    <button onclick="findCocktail()">Find Cocktail</button>
+    <button onclick="toggleList('cocktailList')">🍸 Cocktails</button>
+    <button onclick="toggleList('ingredientList')">🧂 Ingredients</button>
+	<button onclick="toggleList('aboutSection')">ℹ️ About This App</button>
+	<p id="result"></p>
+
+
+<div id="aboutSection" class="collapsible-list">
+  <p>
+    This app contains 25 famous cocktails.
+  </p>
+  <p>
+    It’s intended for fun — to help people discover cocktails they can make at home or at parties
+    with friends, based on the ingredients they already have.
+  </p>
+  <p>
+    Only drink when you are of legal age. The creator of this app encourages you to <strong>drink responsibly</strong>: don’t drink and drive,
+    and always enjoy your drinks safely. 🍸🙂
+  </p>
+</div>
+
+  <div id="cocktailList" class="collapsible-list">
+    <ul>
+      <li>Americano</li>
+    <li>Bellini</li>
+    <li>Bloody Mary</li>
+    <li>Brandy Egg Nog</li>
+    <li>Buck’s Fizz</li>
+    <li>Champagne Cocktail</li>
+    <li>Champs-Élysées</li>
+    <li>Cosmopolitan</li>
+    <li>Cuba Libre</li>
+    <li>Daiquiri</li>
+    <li>French Connection</li>
+    <li>Gin Fizz</li>
+    <li>Hriatô</li>
+    <li>Irish Coffee</li>
+    <li>Manhattan</li>
+    <li>Margarita</li>
+    <li>Martini Dry</li>
+    <li>Mojito</li>
+    <li>Negroni</li>
+    <li>Old Fashioned</li>
+    <li>Piña Colada</li>
+    <li>Singapore Sling</li>
+    <li>Sidecar</li>
+    <li>Tequila Sunrise</li>
+    <li>White Russian</li>
+    </ul>
+  </div>
+
+  <div id="ingredientList" class="collapsible-list">
+<ul>
+<details>
+  <summary><strong> List of Ingredients</strong></summary>
+  <ul>
+    <li>Angostura bitters</li>
+    <li>Bacon fat</li>
+    <li>Banana</li>
+    <li>Benedictine</li>
+    <li>Bitters</li>
+    <li>Black pepper</li>
+    <li>Bourbon</li>
+    <li>Brandy</li>
+    <li>Campari</li>
+    <li>Celery salt</li>
+    <li>Champagne</li>
+    <li>Cherry liqueur</li>
+    <li>Coconut cream</li>
+    <li>Coffee</li>
+    <li>Coffee liqueur</li>
+    <li>Cognac</li>
+    <li>Cola</li>
+    <li>Cranberry juice</li>
+    <li>Cream</li>
+    <li>Dry vermouth</li>
+    <li>Egg</li>
+    <li>Egg white</li>
+    <li>Gin</li>
+    <li>Grenadine</li>
+    <li>Heavy cream</li>
+    <li>Honey</li>
+    <li>Hot sauce</li>
+    <li>Ice</li>
+    <li>Irish whiskey</li>
+    <li>Lemon juice</li>
+    <li>Lime</li>
+    <li>Lime juice</li>
+    <li>Milk</li>
+    <li>Mint leaves</li>
+    <li>Nutmeg</li>
+    <li>Orange juice</li>
+    <li>Orange peel</li>
+    <li>Peach puree</li>
+    <li>Pineapple juice</li>
+    <li>Prosecco</li>
+    <li>Rum</li>
+    <li>Rye whiskey</li>
+    <li>Salt</li>
+    <li>Simple syrup</li>
+    <li>Slivovica</li>
+    <li>Soda water</li>
+    <li>Sugar</li>
+    <li>Sweet vermouth</li>
+    <li>Tequila</li>
+    <li>Tequilla</li>
+    <li>Tomato juice</li>
+    <li>Triple sec</li>
+    <li>Vodka</li>
+    <li>Water</li>
+    <li>Whiskey</li>
+    <li>White rum</li>
+    <li>Worcestershire sauce</li>
+    <li>Yellow chartreuse</li>
+  </ul>
+</details>
+
+</ul>
+
+  </div>
+</div>
+
+<h2 id="cocktailNameLine">
+  <span id="cocktailName"></span>
+</h2>
+<img id="cocktailImage">
+<p id="cheersMessage"></p>
+
+<audio id="shakeSound" src="static/sounds/shake.wav"></audio>
+<audio id="pourSound" src="static/sounds/pour.mp3"></audio>
+<audio id="cheersSound" src="static/sounds/cheers.wav"></audio>
+
+<script src="script.js"></script>
+</body>
+</html>
+

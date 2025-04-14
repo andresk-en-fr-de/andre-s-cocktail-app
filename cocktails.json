@@ -1,0 +1,297 @@
+[
+    {
+        "name": "Mojito",
+        "ingredients": [
+            "white rum",
+            "lime",
+            "mint leaves",
+            "sugar",
+            "soda water"
+        ],
+        "image": "/static/images/mojito.png",
+        "cheers": "¡Salud! (Spanish - Cuba)",
+        "background": "/static/images/cuba-bg.webp"
+    },
+    {
+        "name": "Whiskey Sour",
+        "ingredients": [
+            "whiskey",
+            "lemon juice",
+            "sugar",
+            "egg white"
+        ],
+        "image": "/static/images/whiskey-sour.jpg",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "Cuba Libre",
+        "ingredients": [
+            "rum",
+            "cola",
+            "lime"
+        ],
+        "image": "/static/images/cuba-libre.jpg",
+        "cheers": "¡Salud! (Španielsky - Kuba)",
+        "background": "/static/images/cuba-bg.webp"
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": [
+            "vodka",
+            "triple sec",
+            "cranberry juice",
+            "lime juice"
+        ],
+        "image": "/static/images/cosmopolitan.png",
+        "cheers": "Cheers! (Anglicky - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "Champs-Élysées",
+        "ingredients": [
+            "cognac",
+            "yellow chartreuse",
+            "lemon juice",
+            "bitters",
+            "simple syrup"
+        ],
+        "image": "/static/images/champs-elysees.png",
+        "cheers": "Santé! (Francúzsky - Francúzsko)",
+        "background": "/static/images/french-cafe-bg.webp"
+    },
+    {
+        "name": "Hriatô",
+        "ingredients": [
+            "slivovica",
+            "honey",
+            "bacon fat"
+        ],
+        "image": "/static/images/hriato.webp",
+        "cheers": "Na zdravie! (Slovak - Slovakia)",
+        "background": "/static/images/slovakia-bg.webp"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": [
+            "tequila",
+            "tequilla",
+            "triple sec",
+            "lime juice",
+            "salt"
+        ],
+        "image": "/static/images/margarita.png",
+        "cheers": "¡Salud! (Spanish - Mexico)",
+        "background": "/static/images/mexico-bg.webp"
+    },
+    {
+        "name": "Tequila Sunrise",
+        "ingredients": [
+            "tequila",
+            "orange juice",
+            "grenadine"
+        ],
+        "image": "/static/images/tequila-sunrise.png",
+        "cheers": "¡Salud! (Spanish - Mexico)",
+        "background": "/static/images/mexico-bg.webp"
+    },
+    {
+        "name": "Buck’s Fizz",
+        "ingredients": [
+            "champagne",
+            "orange juice"
+        ],
+        "image": "/static/images/bucks-fizz.png",
+        "cheers": "Cheers! (English - UK)",
+        "background": "/static/images/britain-bg.webp"
+    },
+    {
+        "name": "Gin Fizz",
+        "ingredients": [
+            "gin",
+            "lemon juice",
+            "sugar",
+            "soda water"
+        ],
+        "image": "/static/images/gin-fizz.png",
+        "cheers": "Cheers! (English - UK)",
+        "background": "/static/images/britain-bg.webp"
+    },
+    {
+        "name": "Brandy Egg Nog",
+        "ingredients": [
+            "brandy",
+            "milk",
+            "egg",
+            "sugar",
+            "nutmeg"
+        ],
+        "image": "/static/images/brandy-egg-nog.png",
+        "cheers": "Cheers! (English - UK)",
+        "background": "/static/images/britain-bg.webp"
+    },
+    {
+        "name": "Americano",
+        "ingredients": [
+            "campari",
+            "sweet vermouth",
+            "soda water"
+        ],
+        "image": "/static/images/americano.png",
+        "cheers": "Salute! (Italian - Italy)",
+        "background": "/static/images/italy-bg.webp"
+    },
+    {
+        "name": "Bellini",
+        "ingredients": [
+            "prosecco",
+            "peach puree"
+        ],
+        "image": "/static/images/bellini.jpg",
+        "cheers": "Salute! (Italian - Italy)",
+        "background": "/static/images/italy-bg.webp"
+    },
+    {
+        "name": "Negroni",
+        "ingredients": [
+            "gin",
+            "sweet vermouth",
+            "campari"
+        ],
+        "image": "/static/images/negroni.png",
+        "cheers": "Salute! (Italian - Italy)",
+        "background": "/static/images/italy-bg.webp"
+    },
+    {
+        "name": "Piña Colada",
+        "ingredients": [
+            "rum",
+            "coconut cream",
+            "pineapple juice"
+        ],
+        "image": "/static/images/pina-colada.png",
+        "cheers": "¡Salud! (Spanish - Puerto Rico)",
+        "background": "/static/images/puertorico-bg.webp"
+    },
+    {
+        "name": "Manhattan",
+        "ingredients": [
+            "rye whiskey",
+            "sweet vermouth",
+            "angostura bitters"
+        ],
+        "image": "/static/images/manhattan.png",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "Old Fashioned",
+        "ingredients": [
+            "bourbon",
+            "sugar",
+            "angostura bitters",
+            "water",
+            "orange peel"
+        ],
+        "image": "/static/images/old-fashioned.png",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "Sidecar",
+        "ingredients": [
+            "cognac",
+            "triple sec",
+            "lemon juice"
+        ],
+        "image": "/static/images/sidecar.png",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "Irish Coffee",
+        "ingredients": [
+            "coffee",
+            "Irish whiskey",
+            "sugar",
+            "cream"
+        ],
+        "image": "/static/images/irish-coffee.png",
+        "cheers": "Sláinte! (Irish - Ireland)",
+        "background": "/static/images/ireland-bg.webp"
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": [
+            "white rum",
+            "lime juice",
+            "simple syrup"
+        ],
+        "image": "/static/images/daiquiri.jpg",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/city.png"
+    },
+    {
+        "name": "White Russian",
+        "ingredients": [
+            "vodka",
+            "coffee liqueur",
+            "heavy cream"
+        ],
+        "image": "/static/images/white-russian.jpg",
+        "cheers": "Santé! (French - Belgium)",
+        "background": "/static/images/belgium-bg.webp"
+    },
+    {
+        "name": "Martini Dry",
+        "ingredients": [
+            "gin",
+            "dry vermouth"
+        ],
+        "image": "/static/images/martini-dry.jpg",
+        "cheers": "Salute! (Italian - Italy)",
+        "background": "/static/images/italy-bg.webp"
+    },
+    {
+        "name": "Banana Frozen Daiquiri",
+        "ingredients": [
+            "white rum",
+            "lime juice",
+            "banana",
+            "simple syrup",
+            "ice"
+        ],
+        "image": "/static/images/banana-frozen-daiquiri.png",
+        "cheers": "¡Salud! (Spanish - Mexico)",
+        "background": "/static/images/mexico-bg.webp"
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": [
+            "vodka",
+            "tomato juice",
+            "lemon juice",
+            "worcestershire sauce",
+            "hot sauce",
+            "celery salt",
+            "black pepper"
+        ],
+        "image": "/static/images/bloody-mary.png",
+        "cheers": "Cheers! (English - USA)",
+        "background": "/static/images/manhattan-bg.webp"
+    },
+    {
+        "name": "Singapore Sling",
+        "ingredients": [
+            "gin",
+            "cherry liqueur",
+            "Benedictine",
+            "lime juice",
+            "pineapple juice",
+            "soda water"
+        ],
+        "image": "/static/images/singapore-sling.png",
+        "background": "/static/images/city.png",
+        "origin": "Singapore"
+    }
+]
