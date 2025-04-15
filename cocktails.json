@@ -8,9 +8,9 @@
             "sugar",
             "soda water"
         ],
-        "image": "/static/images/mojito.png",
+        "image": "static/images/mojito.png",
         "cheers": "¡Salud! (Spanish - Cuba)",
-        "background": "/static/images/cuba-bg.webp"
+        "background": "static/images/cuba-bg.webp"
     },
     {
         "name": "Whiskey Sour",
@@ -20,9 +20,9 @@
             "sugar",
             "egg white"
         ],
-        "image": "/static/images/whiskey-sour.jpg",
+        "image": "static/images/whiskey-sour.jpg",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "Cuba Libre",
@@ -31,9 +31,9 @@
             "cola",
             "lime"
         ],
-        "image": "/static/images/cuba-libre.jpg",
+        "image": "static/images/cuba-libre.jpg",
         "cheers": "¡Salud! (Španielsky - Kuba)",
-        "background": "/static/images/cuba-bg.webp"
+        "background": "static/images/cuba-bg.webp"
     },
     {
         "name": "Cosmopolitan",
@@ -56,9 +56,9 @@
             "bitters",
             "simple syrup"
         ],
-        "image": "/static/images/champs-elysees.png",
+        "image": "static/images/champs-elysees.png",
         "cheers": "Santé! (Francúzsky - Francúzsko)",
-        "background": "/static/images/french-cafe-bg.webp"
+        "background": "static/images/french-cafe-bg.webp"
     },
     {
         "name": "Hriatô",
@@ -67,9 +67,9 @@
             "honey",
             "bacon fat"
         ],
-        "image": "/static/images/hriato.webp",
+        "image": "static/images/hriato.webp",
         "cheers": "Na zdravie! (Slovak - Slovakia)",
-        "background": "/static/images/slovakia-bg.webp"
+        "background": "static/images/slovakia-bg.webp"
     },
     {
         "name": "Margarita",
@@ -80,9 +80,9 @@
             "lime juice",
             "salt"
         ],
-        "image": "/static/images/margarita.png",
+        "image": "static/images/margarita.png",
         "cheers": "¡Salud! (Spanish - Mexico)",
-        "background": "/static/images/mexico-bg.webp"
+        "background": "static/images/mexico-bg.webp"
     },
     {
         "name": "Tequila Sunrise",
@@ -91,9 +91,9 @@
             "orange juice",
             "grenadine"
         ],
-        "image": "/static/images/tequila-sunrise.png",
+        "image": "static/images/tequila-sunrise.png",
         "cheers": "¡Salud! (Spanish - Mexico)",
-        "background": "/static/images/mexico-bg.webp"
+        "background": "static/images/mexico-bg.webp"
     },
     {
         "name": "Buck’s Fizz",
@@ -101,9 +101,9 @@
             "champagne",
             "orange juice"
         ],
-        "image": "/static/images/bucks-fizz.png",
+        "image": "static/images/bucks-fizz.png",
         "cheers": "Cheers! (English - UK)",
-        "background": "/static/images/britain-bg.webp"
+        "background": "static/images/britain-bg.webp"
     },
     {
         "name": "Gin Fizz",
@@ -113,9 +113,9 @@
             "sugar",
             "soda water"
         ],
-        "image": "/static/images/gin-fizz.png",
+        "image": "static/images/gin-fizz.png",
         "cheers": "Cheers! (English - UK)",
-        "background": "/static/images/britain-bg.webp"
+        "background": "static/images/britain-bg.webp"
     },
     {
         "name": "Brandy Egg Nog",
@@ -126,9 +126,9 @@
             "sugar",
             "nutmeg"
         ],
-        "image": "/static/images/brandy-egg-nog.png",
+        "image": "static/images/brandy-egg-nog.png",
         "cheers": "Cheers! (English - UK)",
-        "background": "/static/images/britain-bg.webp"
+        "background": "static/images/britain-bg.webp"
     },
     {
         "name": "Americano",
@@ -137,9 +137,9 @@
             "sweet vermouth",
             "soda water"
         ],
-        "image": "/static/images/americano.png",
+        "image": "static/images/americano.png",
         "cheers": "Salute! (Italian - Italy)",
-        "background": "/static/images/italy-bg.webp"
+        "background": "static/images/italy-bg.webp"
     },
     {
         "name": "Bellini",
@@ -147,9 +147,9 @@
             "prosecco",
             "peach puree"
         ],
-        "image": "/static/images/bellini.jpg",
+        "image": "static/images/bellini.jpg",
         "cheers": "Salute! (Italian - Italy)",
-        "background": "/static/images/italy-bg.webp"
+        "background": "static/images/italy-bg.webp"
     },
     {
         "name": "Negroni",
@@ -158,9 +158,9 @@
             "sweet vermouth",
             "campari"
         ],
-        "image": "/static/images/negroni.png",
+        "image": "static/images/negroni.png",
         "cheers": "Salute! (Italian - Italy)",
-        "background": "/static/images/italy-bg.webp"
+        "background": "static/images/italy-bg.webp"
     },
     {
         "name": "Piña Colada",
@@ -169,9 +169,9 @@
             "coconut cream",
             "pineapple juice"
         ],
-        "image": "/static/images/pina-colada.png",
+        "image": "static/images/pina-colada.png",
         "cheers": "¡Salud! (Spanish - Puerto Rico)",
-        "background": "/static/images/puertorico-bg.webp"
+        "background": "static/images/puertorico-bg.webp"
     },
     {
         "name": "Manhattan",
@@ -180,9 +180,9 @@
             "sweet vermouth",
             "angostura bitters"
         ],
-        "image": "/static/images/manhattan.png",
+        "image": "static/images/manhattan.png",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "Old Fashioned",
@@ -193,9 +193,9 @@
             "water",
             "orange peel"
         ],
-        "image": "/static/images/old-fashioned.png",
+        "image": "static/images/old-fashioned.png",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "Sidecar",
@@ -204,9 +204,9 @@
             "triple sec",
             "lemon juice"
         ],
-        "image": "/static/images/sidecar.png",
+        "image": "static/images/sidecar.png",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "Irish Coffee",
@@ -216,9 +216,9 @@
             "sugar",
             "cream"
         ],
-        "image": "/static/images/irish-coffee.png",
+        "image": "static/images/irish-coffee.png",
         "cheers": "Sláinte! (Irish - Ireland)",
-        "background": "/static/images/ireland-bg.webp"
+        "background": "static/images/ireland-bg.webp"
     },
     {
         "name": "Daiquiri",
@@ -227,9 +227,9 @@
             "lime juice",
             "simple syrup"
         ],
-        "image": "/static/images/daiquiri.jpg",
+        "image": "static/images/daiquiri.jpg",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "White Russian",
@@ -238,9 +238,9 @@
             "coffee liqueur",
             "heavy cream"
         ],
-        "image": "/static/images/white-russian.jpg",
+        "image": "static/images/white-russian.jpg",
         "cheers": "Santé! (French - Belgium)",
-        "background": "/static/images/belgium-bg.webp"
+        "background": "static/images/belgium-bg.webp"
     },
     {
         "name": "Martini Dry",
@@ -248,9 +248,9 @@
             "gin",
             "dry vermouth"
         ],
-        "image": "/static/images/martini-dry.jpg",
+        "image": "static/images/martini-dry.jpg",
         "cheers": "Salute! (Italian - Italy)",
-        "background": "/static/images/italy-bg.webp"
+        "background": "static/images/italy-bg.webp"
     },
     {
         "name": "Banana Frozen Daiquiri",
@@ -261,9 +261,9 @@
             "simple syrup",
             "ice"
         ],
-        "image": "/static/images/banana-frozen-daiquiri.png",
+        "image": "static/images/banana-frozen-daiquiri.png",
         "cheers": "¡Salud! (Spanish - Mexico)",
-        "background": "/static/images/mexico-bg.webp"
+        "background": "static/images/mexico-bg.webp"
     },
     {
         "name": "Bloody Mary",
@@ -276,9 +276,9 @@
             "celery salt",
             "black pepper"
         ],
-        "image": "/static/images/bloody-mary.png",
+        "image": "static/images/bloody-mary.png",
         "cheers": "Cheers! (English - USA)",
-        "background": "/static/images/manhattan-bg.webp"
+        "background": "static/images/manhattan-bg.webp"
     },
     {
         "name": "Singapore Sling",
@@ -290,8 +290,8 @@
             "pineapple juice",
             "soda water"
         ],
-        "image": "/static/images/singapore-sling.png",
-        "background": "/static/images/city.png",
-        "origin": "Singapore"
+        "image": "static/images/singapore-sling.png",
+        "cheers": "Yam Seng! (Malay – Singapore)"
+        "background": "static/images/city.png",
     }
 ]
