@@ -43,9 +43,9 @@
             "cranberry juice",
             "lime juice"
         ],
-        "image": "/static/images/cosmopolitan.png",
+        "image": "static/images/cosmopolitan.png",
         "cheers": "Cheers! (Anglicky - USA)",
-        "background": "/static/images/city.png"
+        "background": "static/images/city.png"
     },
     {
         "name": "Champs-Élysées",
