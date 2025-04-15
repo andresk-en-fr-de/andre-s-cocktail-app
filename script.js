@@ -27,7 +27,7 @@ function findCocktail() {
 
   const resultDiv = document.getElementById("result");
   const image = document.getElementById("cocktailImage");
-  const background = document.body;
+  const background = document.querySelector(".content-box");
 
   const cheersSound = document.getElementById("cheersSound");
   const shakeSound = document.getElementById("shakeSound");
