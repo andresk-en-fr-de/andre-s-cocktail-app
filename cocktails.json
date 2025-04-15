@@ -291,7 +291,7 @@
             "soda water"
         ],
         "image": "static/images/singapore-sling.png",
-        "cheers": "Yam Seng! (Malay – Singapore)"
-        "background": "static/images/city.png",
+        "cheers": "Yam Seng! (Malay – Singapore)",
+        "background": "static/images/city.png"
     }
 ]
