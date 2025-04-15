@@ -38,7 +38,9 @@ function findCocktail() {
     const chosen = matchedCocktails[Math.floor(Math.random() * matchedCocktails.length)];
 
     resultDiv.innerText = `🍹 ${chosen.name}`;
+    document.getElementById("cheersMessage").innerText = "Cheers! 🥂";
     image.src = chosen.image;
+    image.style.display = "block";
     background.style.backgroundImage = `url('${chosen.background}')`;
 
     setTimeout(() => {
