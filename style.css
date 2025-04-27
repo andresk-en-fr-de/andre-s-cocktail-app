@@ -1,39 +1,44 @@
 /* Make text bigger */
 body {
-    font-family: Arial, sans-serif;
-    font-size: 20px; /* Bigger text */
+ font-family: 'Poppins';
+    background-color: #f0f2f5;
+    margin: 0;
     text-align: center;
-    background-color: #f8f8f8; /* Light background */
+    color: #333;
 }
 
 /* Style the button */
 button {
+    font-family: 'Poppins', Arial, sans-serif;
     font-size: 18px;
-    padding: 12px 20px;
-    border: none;
-    background-color: #ff6600; /* Bright orange */
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc); /* or your preferred colors */
     color: white;
     font-weight: bold;
-    border-radius: 8px;
+    border: none;
+    border-radius: 30px;
     cursor: pointer;
-    transition: all 0.3s ease-in-out;
+    margin: 8px;
+    transition: all 0.3s ease;
 }
+
 
 /* Hover effect */
 button:hover {
     background-color: #ff4500; /* Darker orange */
-    transform: scale(1.1);
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+	transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(255, 99, 71, 0.4);
 }
 
 /* Style the input field */
 input {
     font-size: 18px;
-    padding: 15px;
-    border: 2px solid #ff6600;
-    border-radius: 6px;
-    width: 300px;
-    text-align: center;
+    padding: 14px;
+    width: 280px;
+    border: 2px solid #ff7f50;
+    border-radius: 8px;
+    margin: 10px 0;
+    outline: none;
 }
 
 /* Make the cocktail name bigger */
@@ -57,10 +62,8 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0;
-    font-family: Arial, sans-serif;
-}
-body {
-    text-align: center;  /* Centers everything inside the body */
+    font-family: 'Poppins';
+	   text-align: center;  /* Centers everything inside the body */
 }
 
 #cocktailImage {
@@ -71,15 +74,9 @@ body {
     padding: 10px;      /* Adds space around the text */
     border-radius: 10px; /* Rounded corners */
     text-align: center;  /* Centers text inside */
-    width: 70%;         /* Adjust width as needed */
+    width: 80%;         /* Adjust width as needed */
     margin: 20px auto;  /* Centers it horizontally */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow for better contrast */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-body {
-    text-align: center;  /* Centers everything inside the body */
 }
 
 #cocktailImage {
