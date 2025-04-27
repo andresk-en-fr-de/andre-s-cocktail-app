@@ -25,9 +25,10 @@ function findCocktail() {
     );
   });
 
-  const resultDiv = document.getElementById("result");
+ const resultDiv = document.getElementById("cocktailName");
   const image = document.getElementById("cocktailImage");
-  const background = document.querySelector(".content-box");
+  const background = document.body;
+  const cheersMessage = document.getElementById("cheersMessage"); // Get the cheersMessage element
 
   const cheersSound = document.getElementById("cheersSound");
   const shakeSound = document.getElementById("shakeSound");
@@ -38,10 +39,9 @@ function findCocktail() {
     const chosen = matchedCocktails[Math.floor(Math.random() * matchedCocktails.length)];
 
     resultDiv.innerText = `🍹 ${chosen.name}`;
-    document.getElementById("cheersMessage").innerText = "Cheers! 🥂";
     image.src = chosen.image;
-    image.style.display = "block";
     background.style.backgroundImage = `url('${chosen.background}')`;
+	cheersMessage.innerText = chosen.cheers; // Update the cheers message
 
     setTimeout(() => {
       cheersSound.play();
@@ -50,13 +50,37 @@ function findCocktail() {
     resultDiv.innerText = "😞 No cocktail matches your ingredients. Try something else";
     image.src = "";
     background.style.backgroundImage = "url('static/images/bar.webp')";
+	cheersMessage.innerText = ""; // Clear the cheers message if no match is found
   }
 }
+
+// Open/close the list when clicking the button
 function toggleList(id) {
-  const el = document.getElementById(id);
-  if (el.style.display === "none" || el.style.display === "") {
-    el.style.display = "block";
-  } else {
-    el.style.display = "none";
-  }
+    const list = document.getElementById(id);
+    
+    if (list.style.display === "block") {
+        list.style.display = "none";
+        document.removeEventListener("click", outsideClickListener);
+    } else {
+        list.style.display = "block";
+        setTimeout(() => { // slight delay so it doesn't trigger immediately
+            document.addEventListener("click", outsideClickListener);
+        }, 50);
+    }
+
+    function outsideClickListener(event) {
+        const button = document.querySelector(`button[onclick="toggleList('${id}')"]`);
+        
+        if (!list.contains(event.target) && !button.contains(event.target)) {
+            list.style.display = "none";
+            document.removeEventListener("click", outsideClickListener);
+        }
+    }
 }
+
+// Trigger the findCocktail function when the Enter key is pressed
+document.getElementById("ingredients").addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    findCocktail();
+  }
+});
