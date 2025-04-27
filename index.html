@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cocktail Finder</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,7 +14,7 @@
     <input type="text" id="ingredients" placeholder="e.g. rum, lime, mint">
     <button onclick="findCocktail()">Find Cocktail</button>
     <button onclick="toggleList('cocktailList')">🍸 Cocktails</button>
-    <button onclick="toggleList('ingredientList')">🍋 Ingredients</button>
+    <button onclick="toggleList('ingredientList')"> Ingredients</button>
 	<button onclick="toggleList('aboutSection')">ℹ️ About This App</button>
 	<p id="result"></p>
 
@@ -129,7 +130,7 @@
 </details>
 
 </ul>
-</div>
+ </div>
   </div>
 </div>
 
@@ -140,6 +141,7 @@
 <p id="cheersMessage"></p>
 
 <audio id="shakeSound" src="static/sounds/shake.wav"></audio>
+<audio id="pourSound" src="static/sounds/pour.mp3"></audio>
 <audio id="cheersSound" src="static/sounds/cheers.wav"></audio>
 
 <script src="script.js"></script>
