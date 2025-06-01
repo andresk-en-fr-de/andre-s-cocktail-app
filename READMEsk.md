@@ -6,7 +6,7 @@ Táto zábavná a edukatívna cocktailová aplikácia ti pomôže objaviť kokta
 - ✅ 25 známych nápojov
 - ✅ Filtrovanie podľa ingrediencií
 - ✅ Krásne tematické pozadia podľa krajiny pôvodu koktailu
-- ✅ Zvukové efekty a plynulé používateľské rozhranie
+- ✅ Zvukové efekty a plynulé používateľské rozhranie 
 
 ## ⚠️ Upozornenie
 Táto aplikácia slúži na **zábavu, kreativitu a edukáciu** – **nie** na podporu nadmerného požívania alkoholu.  
@@ -14,9 +14,11 @@ Táto aplikácia slúži na **zábavu, kreativitu a edukáciu** – **nie** na p
 Alkohol konzumujte iba ak ste dosiahli zákonom stanovený vek – zvyčajne **18 rokov** alebo viac.  
 Vývojár tejto aplikácie nepropaguje nezodpovedné správanie ani nepreberá žiadnu zodpovednosť za dôsledky vyplývajúce z jej používania.
 
+## Live Demo: https://andresk-en-fr-de.github.io/andre-s-cocktail-app/
+
 ## 🚀 Ako používať
 
-1. Otvor `index.html` vo svojom prehliadači (lokálne alebo na hostingu).
+1. Otvor `index.html` vo svojom prehliadači (lokálne alebo na hostingu v live Demo.
 2. Zadaj ingrediencie, ktoré máš doma (napr. `vodka, lime, mint`), treba zadať v angličtine
 3. Aplikácia vám navrhne koktaily, ktoré zodpovedajú vášmu výberu.
 4. Užívaj si zodpovedne! 🍹
