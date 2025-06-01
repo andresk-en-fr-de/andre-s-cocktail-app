@@ -1,53 +1,39 @@
-🍸 andre-s-cocktail-app (SK verzia)
-Táto zábavná a vzdelávacia aplikácia na miešanie kokteilov ti pomôže objaviť oficiálne IBA koktaily na základe ingrediencií, ktoré máš doma.
+# andre-s-cocktail-app
 
-🍹 Čo aplikácia ponúka
-✅ 25 známych drinkov
-✅ Filtrovanie podľa ingrediencií
-✅ Krásne tematické pozadia podľa pôvodu kokteilu
-✅ Zvukové efekty a plynulé používateľské rozhranie
+Táto zábavná a edukatívna cocktailová aplikácia ti pomôže objaviť koktaily podľa surovín, ktoré máš doma.
 
-⚠️ Upozornenie
-Pite zodpovedne. Táto aplikácia je určená na zábavu, kreativitu a voľnočasové použitie — nie na podporu nadmernej konzumácie alkoholu.
-Nepite a nešoférujte. Alkohol konzumujte len v prípade, že ste dosiahli zákonný vek na jeho konzumáciu vo vašej krajine alebo jurisdikcii — spravidla 18 rokov a viac.
-Vývojár nepreberá žiadnu zodpovednosť za následky používania tejto aplikácie.
+## 🍹 Čo obsahuje
+- ✅ 25 známych nápojov
+- ✅ Filtrovanie podľa ingrediencií
+- ✅ Krásne tematické pozadia podľa krajiny pôvodu koktailu
+- ✅ Zvukové efekty a plynulé používateľské rozhranie
 
-🚀 Ako aplikáciu používať
-Otvor súbor index.html v prehliadači (lokálne alebo online).
+## ⚠️ Upozornenie
+Táto aplikácia slúži na zábavu, kreativitu a oddych – **nie** na podporu nadmerného požívania alkoholu.  
+Nešoférujte pod vplyvom alkoholu.  
+Alkohol konzumujte iba v prípade, že ste dosiahli zákonom stanovený vek – zvyčajne 18 rokov alebo viac.  
+Vývojár tejto aplikácie nepropaguje nezodpovedné správanie ani nepreberá žiadnu zodpovednosť za dôsledky vyplývajúce z jej používania.
 
-Zadaj ingrediencie, ktoré máš doma (napr. vodka, limetka, mäta).
+## 🚀 Ako používať
 
-Aplikácia ti navrhne koktaily, ktoré môžeš pripraviť.
+1. Otvor `index.html` vo svojom prehliadači (lokálne alebo na hostingu).
+2. Zadaj ingrediencie, ktoré máš doma (napr. `vodka, limetka, mäta`)
+3. Aplikácia ti navrhne koktaily, ktoré zodpovedajú tvojmu výberu.
+4. Užívaj si zodpovedne! 🍹
 
-Uži si zábavu — zodpovedne! 🍸
+## 🧱 Vytvorené pomocou
+- HTML
+- CSS
+- JavaScript
+- JSON (dáta o koktailoch)
+- Obrázky a zvuky uložené v priečinku `/static/`
 
-🧱 Vytvorené pomocou
-HTML
-
-CSS
-
-JavaScript
-
-JSON (údaje o koktailoch)
-
-Obrázky a zvuky uložené v priečinku /static/
-
-📄 Licencie & poďakovania
-Ingrediencie a názvy koktailov vychádzajú z verejne dostupného IBA zoznamu.
-
-Obrázky koktailov sú buď:
-
-AI-generované
-
-Získané z verejných databáz s licenciou Creative Commons (CC0 / Public Domain):
-
-Wikimedia Commons
-
-Pexels
-
-Alebo nahradené ilustračnými obrázkami
-
-Pozadia boli vytvorené pomocou AI nástroja DALL-E.
-Zvuky sú z webu freesound.org a sú licencované ako Creative Commons (CC0 / Public Domain).
-
-Projekt je vydaný pod MIT licenciou.
+## 📄 Licencie a zdroje
+- Ingrediencie a názvy koktailov sú založené na verejnom zozname IBA.
+- Obrázky koktailov sú buď:
+  - generované pomocou AI,
+  - získané z verejných zdrojov s licenciou Creative Commons (CC0 / Public Domain) – napr. [Wikimedia Commons](https://commons.wikimedia.org) alebo [pexels.com], ktoré nevyžadujú uvedenie autora,
+  - alebo nahradené ilustračnými obrázkami.
+- Pozadia boli vytvorené pomocou AI nástrojov.
+- Zvuky pochádzajú z freesound.org a sú pod licenciou Creative Commons (CC0 / Public Domain), ktorá nevyžaduje uvedenie autora.
+- Tento projekt je vydaný pod licenciou MIT.
