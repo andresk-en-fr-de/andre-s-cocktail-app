@@ -9,16 +9,16 @@ Táto zábavná a edukatívna cocktailová aplikácia ti pomôže objaviť kokta
 - ✅ Zvukové efekty a plynulé používateľské rozhranie
 
 ## ⚠️ Upozornenie
-Táto aplikácia slúži na zábavu, kreativitu a oddych – **nie** na podporu nadmerného požívania alkoholu.  
-Nešoférujte pod vplyvom alkoholu.  
-Alkohol konzumujte iba v prípade, že ste dosiahli zákonom stanovený vek – zvyčajne 18 rokov alebo viac.  
+Táto aplikácia slúži na **zábavu, kreativitu a edukáciu** – **nie** na podporu nadmerného požívania alkoholu.  
+**Nešoférujte** pod vplyvom alkoholu.  
+Alkohol konzumujte iba ak ste dosiahli zákonom stanovený vek – zvyčajne **18 rokov** alebo viac.  
 Vývojár tejto aplikácie nepropaguje nezodpovedné správanie ani nepreberá žiadnu zodpovednosť za dôsledky vyplývajúce z jej používania.
 
 ## 🚀 Ako používať
 
 1. Otvor `index.html` vo svojom prehliadači (lokálne alebo na hostingu).
-2. Zadaj ingrediencie, ktoré máš doma (napr. `vodka, limetka, mäta`)
-3. Aplikácia ti navrhne koktaily, ktoré zodpovedajú tvojmu výberu.
+2. Zadaj ingrediencie, ktoré máš doma (napr. `vodka, lime, mint`), treba zadať v angličtine
+3. Aplikácia vám navrhne koktaily, ktoré zodpovedajú vášmu výberu.
 4. Užívaj si zodpovedne! 🍹
 
 ## 🧱 Vytvorené pomocou
@@ -28,12 +28,11 @@ Vývojár tejto aplikácie nepropaguje nezodpovedné správanie ani nepreberá �
 - JSON (dáta o koktailoch)
 - Obrázky a zvuky uložené v priečinku `/static/`
 
-## 📄 Licencie a zdroje
-- Ingrediencie a názvy koktailov sú založené na verejnom zozname IBA.
+## 📄 Licencie a zdroje.
 - Obrázky koktailov sú buď:
-  - generované pomocou AI,
-  - získané z verejných zdrojov s licenciou Creative Commons (CC0 / Public Domain) – napr. [Wikimedia Commons](https://commons.wikimedia.org) alebo [pexels.com], ktoré nevyžadujú uvedenie autora,
+  - generované pomocou AI generátora obrázkov **DALL-E 3**,
+  - získané z verejných zdrojov s licenciou **Creative Commons (CC0 / Public Domain)** – napr. [Wikimedia Commons](https://commons.wikimedia.org) alebo [pexels.com], ktoré nevyžadujú uvedenie autora,
   - alebo nahradené ilustračnými obrázkami.
 - Pozadia boli vytvorené pomocou AI nástrojov.
-- Zvuky pochádzajú z freesound.org a sú pod licenciou Creative Commons (CC0 / Public Domain), ktorá nevyžaduje uvedenie autora.
-- Tento projekt je vydaný pod licenciou MIT.
+- **Zvuky** pochádzajú z freesound.org a sú pod licenciou **Creative Commons (CC0 / Public Domain)**, ktorá nevyžaduje uvedenie autora.
+- Tento projekt je vydaný pod **licenciou MIT**.
