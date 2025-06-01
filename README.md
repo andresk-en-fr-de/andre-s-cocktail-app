@@ -16,6 +16,7 @@ The developer does not encourage excessive consumption or irresponsible behavior
 
 ## Live Demo: https://andresk-en-fr-de.github.io/andre-s-cocktail-app/
 
+
 ## 🚀 How to Use
 
 1. Open `index.html` in your browser (locally or hosted).
