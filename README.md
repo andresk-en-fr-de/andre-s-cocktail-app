@@ -14,6 +14,7 @@ Please drink responsibly. Do not drink and drive.
 Only consume alcohol if you are of legal drinking age in your country or jurisdiction — typically 18 years or older.
 The developer does not encourage excessive consumption or irresponsible behavior and assumes no liability for any outcomes related to the use of this app.
 
+## Live Demo: https://andresk-en-fr-de.github.io/andre-s-cocktail-app/
 
 ## 🚀 How to Use
 
